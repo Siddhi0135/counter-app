@@ -1,5 +1,5 @@
-#Counter-app
-This is a very basic project of react.
+## Counter-app
+# This is a very basic project of react.
 
 ## Features 💻
 - Use of HTML
